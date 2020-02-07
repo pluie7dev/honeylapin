@@ -7,13 +7,16 @@ categories: jekyll update
 
 TEST
 
+![title](https://github.com/pluie7dev/honeylapin/tree/master/_posts_images/test.png)
+
 <div id="disqus_thread">
 
 </div>
 
 
 <script>
-<img src ="https://github.com/pluie7dev/honeylapin/tree/master/_posts_images/test.png">
+
+
 
 /**
 *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
