@@ -8,10 +8,7 @@ categories: jekyll update
 TEST
 
 
-<div id="disqus_thread">
-<img src ="https://github.com/pluie7dev/honeylapin/tree/master/_posts_images/test.png">
 
-</div>
 
 <script>
 
