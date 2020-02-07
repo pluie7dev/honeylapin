@@ -11,8 +11,8 @@ categories: jekyll update
 
 TEST 2
 
-
-<div class="write-content js-write-bucket tooltipped tooltipped-ne tooltipped-no-delay tooltipped-align-left-1 hide-reaction-suggestion upload-enabled mx-0 mt-2 mb-2 mx-md-2 hx_sm-hide-drag-drop js-reaction-suggestion" data-reaction-markup="Would you like to leave a reaction instead?">
+<file-attachment class="js-upload-markdown-image is-default" role="tabpanel" data-upload-repository-id="238808779" data-upload-policy-url="/upload/policies/assets"><input type="hidden" value="USW3tyScI/nYFLlYb6qrUQ3LiOugoLZMGutHSJKTS6vIvrZzHgBgOwJZGxVdLv8iYrCYAUwVlAfNY2+PMwxs8w==" data-csrf="true" class="js-data-upload-policy-url-csrf">
+    <div class="write-content js-write-bucket tooltipped tooltipped-ne tooltipped-no-delay tooltipped-align-left-1 hide-reaction-suggestion upload-enabled mx-0 mt-2 mb-2 mx-md-2 hx_sm-hide-drag-drop js-reaction-suggestion" data-reaction-markup="Would you like to leave a reaction instead?">
 
         <input type="hidden" name="saved_reply_id" id="issue_body_saved_reply_id" class="js-resettable-field" value="" data-reset-value="">
 
@@ -83,4 +83,5 @@ TEST 2
   </p>
 
     </div>
+</file-attachment>
 
