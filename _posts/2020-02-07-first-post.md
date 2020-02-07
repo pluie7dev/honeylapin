@@ -8,7 +8,11 @@ categories: jekyll update
 TEST
 
 
-<div id="disqus_thread"></div>
+<div id="disqus_thread">
+<img src ="https://github.com/pluie7dev/honeylapin/tree/master/_posts_images/test.png">
+
+</div>
+
 <script>
 
 /**
@@ -29,4 +33,3 @@ s.setAttribute('data-timestamp', +new Date());
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
                             
-<img src ="https://github.com/pluie7dev/honeylapin/tree/master/_posts_images/test.png">
