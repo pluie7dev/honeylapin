@@ -8,11 +8,6 @@ categories: jekyll update
 
 TEST
 
-
-
-</div>
-
-
 <script>
 
 
