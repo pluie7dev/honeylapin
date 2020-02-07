@@ -4,10 +4,13 @@ title: "Welcome to Jekyll!"
 date: 2017-10-20 08:26:28 -0400
 categories: jekyll update
 ---
+<img src ="https://github.com/pluie7dev/honeylapin/tree/master/_posts_images/test.png">
 
 TEST
 
+<div id="disqus_thread">
 
+</div>
 
 
 <script>
