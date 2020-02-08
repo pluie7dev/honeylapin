@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : " "
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-                   
+  name             : "Joo"
+  avatar           : "https://user-images.githubusercontent.com/60458672/74089630-a0dd1b80-4ae6-11ea-9fc8-ff50ce64a58d.jpg"
+  bio              : "Love truth and pardon error. (Voltaire)"                  
   
  
   links:
