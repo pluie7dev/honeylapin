@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "STUDY"
+  name             : " "
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
                    
   
@@ -126,11 +126,11 @@ author:
      
     - label: "INVEST"
       icon: "fas fa-fw fa-link"
-      url: "https://your-website.com"
+      url: "https://pluie7dev.github.io/INVEST/"
       
     - label: "DEV"
       icon: "fas fa-fw fa-link"
-      url: "https://pluie7dev.github.io/ST-VIEW/"  
+      url: "https://pluie7dev.github.io/DEV/"  
            
     - label: "PRIVATE"
       icon: "fas fa-fw fa-link"
