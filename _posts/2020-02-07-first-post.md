@@ -5,7 +5,6 @@ date: 2017-10-20 08:26:28 -0400
 categories: jekyll update
 ---
 
-![test](https://user-images.githubusercontent.com/60458672/74007426-a9880180-49c1-11ea-820d-759b1e6eee7b.png)
 
 
 TEST
