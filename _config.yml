@@ -135,6 +135,10 @@ author:
     - label: "PRIVATE"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/pluie7dev/private"
+      
+    - label: "WHO"
+      icon: "fas fa-fw fa-link"
+      url: "https://pluie7dev.github.io/WHO/"
     
  
  
