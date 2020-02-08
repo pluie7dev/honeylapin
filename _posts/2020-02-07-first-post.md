@@ -6,6 +6,8 @@ categories: jekyll update
 ---
 
 
+![test](https://user-images.githubusercontent.com/60458672/74007426-a9880180-49c1-11ea-820d-759b1e6eee7b.png)
+
 
 TEST
 
@@ -27,7 +29,7 @@ this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your pag
 */
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = 'https://EXAMPLE.disqus.com/embed.js';
+s.src = 'https://pluie7dev.github.io.honeylapin.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
