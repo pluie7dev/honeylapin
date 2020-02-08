@@ -121,7 +121,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:pluie7j@gmail.com
+      # url: mailto:pluie7j@gmail.com
     
     - label: "INVEST"
       icon: "fas fa-fw fa-link"
@@ -133,7 +133,7 @@ author:
            
     - label: "PRIVATE"
       icon: "fas fa-fw fa-link"
-      # url: "https://github.com/pluie7dev/private"
+      url: "https://github.com/pluie7dev/private"
     
       
       
